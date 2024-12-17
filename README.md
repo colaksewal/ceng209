@@ -47,7 +47,6 @@
 | `move `up` / `down` / `right` / `left` | Move to an adjacent room in the specified direction. |
 | `look`               | Show a description of the current room and its contents. |
 | `inventory`          | List the player's inventory.                  |
-| `attack <enemy>`     | Attack an enemy in the room.                  |
 | `save`               | Save the game progress.                       |
 | `load`               | Load a previously saved game.                 |
 
