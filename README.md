@@ -1,7 +1,7 @@
 
 ---
 
-# Dungeon Game
+# Space Dungeon Game
 
 **Dungeon Game** is a simple text-based adventure game where the player navigates through rooms, manages their inventory, and faces attackers. The game includes a grid-based map, a player with health and strength attributes, and rooms that can contain items and enemies.
 
@@ -80,11 +80,11 @@
 
 1. **Player**:
    - Health, strength, and an inventory to carry items.
-   - Can pick up items, drop items, and fight attackers.
+   - Can pick up items, fight attackers.
 
 2. **Room**:
    - Each room has a description and may contain items or attackers.
-   - Rooms are connected in a grid-based map (north, south, east, west).
+   - Rooms are connected in a grid-based map. .
 
 3. **Map**:
    - Represents the dungeon as a 2D grid of rooms.
